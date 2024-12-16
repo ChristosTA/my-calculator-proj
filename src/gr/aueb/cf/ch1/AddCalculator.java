@@ -1,4 +1,4 @@
-package gr.aueb.ch1;
+package gr.aueb.cf.ch1;
 
 public class AddCalculator {
 
@@ -8,6 +8,9 @@ public class AddCalculator {
         int result = 0;
 
         result= add(num1 , num2);
+
+
+        System.out.println("Sum : " + result);
 
     }
 

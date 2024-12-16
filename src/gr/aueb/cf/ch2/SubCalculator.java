@@ -1,4 +1,4 @@
-package gr.aueb.ch1.ch2;
+package gr.aueb.cf.ch2;
 
 public class SubCalculator {
 
@@ -8,6 +8,8 @@ public class SubCalculator {
         int result = 0;
 
         result= sub(num1 , num2);
+
+        System.out.println("Sub : " + result);
 
     }
 
